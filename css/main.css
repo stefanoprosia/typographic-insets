@@ -87,3 +87,19 @@ footer {
 */
 
 /* Write your CSS here */
+
+main > p:first-child::first-line {
+
+}
+
+figure {
+
+}
+
+figcaption {
+
+}
+
+blockquote {
+
+}
