@@ -89,18 +89,26 @@ footer {
 /* Write your CSS here */
 
 main > p:first-child::first-letter {
-
+  font-size: 2rem;
+  float: left;
 }
 
 figure {
   float: right;
-  width: 50%;
+  width: 30%;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
 }
 
 figcaption {
-
+  font-style: italic;
+  font-size: 0.5em;
 }
 
 blockquote {
-
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333;
+  color: #333;
+  font-size: 2rem;
+  float: left;
 }
