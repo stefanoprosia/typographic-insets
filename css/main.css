@@ -88,7 +88,7 @@ footer {
 
 /* Write your CSS here */
 
-main > p:first-child::first-line {
+main > p:first-child::first-letter {
 
 }
 
