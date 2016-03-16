@@ -93,7 +93,8 @@ main > p:first-child::first-letter {
 }
 
 figure {
-
+  float: right;
+  width: 50%;
 }
 
 figcaption {
